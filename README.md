@@ -73,6 +73,15 @@ Highly motivated DevOps Engineer passionate about building and maintaining scala
 
 
 
-### 📥 &nbsp; If you have any questions don’t hesitate to post it or contact me on:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://github.com/omarmfathy219/omarmfathy219/blob/master/linkedin.png)](https://www.linkedin.com/in/rana-ahmed11/)
+### 📫 How to reach me:
+<p align="left">
+<a href="https://www.linkedin.com/in/rana-ahmed11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn-Rana" height="30" width="40" /></a>
+<a href="mailto:rana.ahmed.it2@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a> 
+</p>
+<hr>
+
+### Happy Coding! 😊
+### As a Cloud & DevOps Engineer
+![Cloud & DevOps Engineer](https://simplecoding.dev/assets/devops.gif)
+<br><br>
 
